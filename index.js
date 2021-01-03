@@ -64,7 +64,7 @@ const jsQR = require('jsqr');
     if (!qrCodeText)
       throw new Error('QR Code Text could not be extracted from PNG image');
 
-    console.log('QR Code Text: ', qrCodeText);
+    console.log('QR Code Text:==> ', qrCodeText);
   } catch (error) {
     console.error(error);
   }
