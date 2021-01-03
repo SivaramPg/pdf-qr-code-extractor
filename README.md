@@ -32,7 +32,7 @@ npm install
 yarn start
 ```
 
--Using NPM
+- Using NPM
 
 ```shell
 npm start
