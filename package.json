@@ -1,0 +1,10 @@
+{
+  "name": "pdf-qr-code-extractor",
+  "version": "1.0.0",
+  "description": "Extract QR Codes from PDF Files",
+  "main": "index.js",
+  "repository": "https://github.com/SivaramPg/pdf-qr-code-extractor.git",
+  "author": "SivaramPg <sivarampg95@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
