@@ -1,0 +1,1 @@
+# PDF QR Code Extractor
